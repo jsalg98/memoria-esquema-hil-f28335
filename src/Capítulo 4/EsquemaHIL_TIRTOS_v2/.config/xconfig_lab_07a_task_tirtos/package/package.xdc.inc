@@ -1,0 +1,12 @@
+package.xdc
+package.xs
+package/xconfig_lab_07a_task_tirtos.sch
+package/.vers_g200
+package/.vers_r200
+package/.vers_b200
+package/.xdc-K04
+package/xconfig_lab_07a_task_tirtos.java
+package/xconfig_lab_07a_task_tirtos.class
+package/package_xconfig_lab_07a_task_tirtos.c
+package/package.defs.h
+package/xconfig_lab_07a_task_tirtos.ccs

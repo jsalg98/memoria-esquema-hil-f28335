@@ -1,0 +1,12 @@
+package.xdc
+package.xs
+package/xconfig_lab_08_instrumentation_tirtos.sch
+package/.vers_g200
+package/.vers_r200
+package/.vers_b200
+package/.xdc-K04
+package/xconfig_lab_08_instrumentation_tirtos.java
+package/xconfig_lab_08_instrumentation_tirtos.class
+package/package_xconfig_lab_08_instrumentation_tirtos.c
+package/package.defs.h
+package/xconfig_lab_08_instrumentation_tirtos.ccs
