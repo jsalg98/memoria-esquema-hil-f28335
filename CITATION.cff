@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Implementación de esquema HIL para prototipado de
+  convertidores DC-DC en MCU TI TMS320F28335
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jorge Salgado
+    email: j.salgado.1998@hotmail.com
+repository-code: 'https://github.com/jsalg98/memoria-esquema-hil-f28335'
