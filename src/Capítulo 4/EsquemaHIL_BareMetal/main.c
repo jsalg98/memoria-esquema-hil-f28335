@@ -49,7 +49,7 @@ __interrupt void ADC_Callback(void);
 void PWM1A_config(uint16_t PWM_Periodo);
 void Buck_Euler(volatile ConvertidorBuck*, volatile ParamConvertidorBuck_IQ*, uint16_t);
 void IQ_txt(char*, _iq);
-void Sci_Rx( _iq, _iq);
+void Sci_Tx( _iq, _iq);
 
 
 
@@ -256,7 +256,7 @@ void SCIA_Config(uint32_t SCI_PRD){
 // ********************************************************************************************************************
 // Sci_Rx: Enviar dos arreglos de datos de tipo IQ usando SCIA
 // ********************************************************************************************************************
-void Sci_Rx(_iq Var1, _iq Var2){
-    IQ_txt(SCI_Rx_Mensaje, Var1);
-    IQ_txt(SCI_Rx_Mensaje, Var2);
+void Sci_Tx(_iq Var1, _iq Var2){
+    IQ_txt(SCI_Tx_Mensaje, Var1);
+    IQ_txt(SCI_Tx_Mensaje, Var2);
 }
