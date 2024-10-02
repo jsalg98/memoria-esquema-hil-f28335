@@ -8,9 +8,11 @@ En este repositorio se encuentran los archivos usados para los programas que se 
     ├── src                                 # Proyectos y archivos usados en MT              
     │   ├── Capítulo 2                          # Capítulo 2: Programación de microcontroladores F28335
     |       ├── Ejemplos CCS                        # Ejemplos CCS
-    |           ├── Index.tex                           # GPIO
+    |           ├── Index.tex                           # GPIO 
     |           ├── Section1.tex                        # Interrupciones(ISR)
+    |           ├── Section1.tex                        # Timer
     |           ├── Section1.tex                        # ePWM
+    |           ├── Section1.tex                        # ADC  
     |           ├── Section1.tex                        # SCI
     |       ├── Ejemplos Simulink                   # Ejemplos Simulink
     |           ├── Index.tex                           # GPIO
